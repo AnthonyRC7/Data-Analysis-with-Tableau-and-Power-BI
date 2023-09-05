@@ -4,7 +4,7 @@ Through these powerful visualization tools, we explore and extract valuable insi
 
 ## Airbnb-Home-Listings-and-Video-Game-Sales-Analysis-Using-Tableau
 
-**1. Airbnb Home Listings Analysis Using Tableau:**
+**1. Airbnb Home Listings Analysis with Tableau:**
 
 In this project, I delve into the world of Airbnb by analyzing home listings data using the powerful visualization capabilities of Tableau. Through interactive dashboards and visualizations, I uncover key trends, patterns, and insights related to Airbnb listings. Whether you're interested in understanding pricing dynamics, property types, or geographical distribution of Airbnb homes, this project has you covered. Explore the beauty of Tableau as I transform raw data into meaningful visual narratives, offering a deeper understanding of the Airbnb ecosystem.
 
